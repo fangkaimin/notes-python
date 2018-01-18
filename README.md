@@ -2,7 +2,7 @@
 [![Analytics](https://ga-beacon.appspot.com/UA-80121379-2/notes-python)](https://github.com/lijin-thu/notes-python)
 
 # 中文 Python 笔记
-
+  建议python3 逐步修改
 > 版本：0.0.1<br>
 > 作者：李金<br>
 > 邮件：lijinwithyou@gmail.com<br>
